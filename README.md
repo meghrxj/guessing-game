@@ -9,4 +9,5 @@
  It creates three players, then “thinks” of a random number (the target for the players to guess). It then asks each player to guess, checks the result, and either prints out information about the winning player(s) or asks them to guess again.
 
 # To Launch 
+
  %java GameLauncher
